@@ -1,4 +1,4 @@
-# Hard Hat
+# Hard Hat OS
 The Hard Hat operating system (HOS) is a hardened Fedora Linux that aims to utilize SELinux, seccomp, and other security technologies to provide a more secure desktop experience.
 
 ### Package Repository: [[Link](https://copr.fedorainfracloud.org/coprs/hardhatos/)]
